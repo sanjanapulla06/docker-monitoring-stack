@@ -31,8 +31,8 @@ simulation of monitoring.
 **Prerequisites:** Docker Desktop (with WSL2 backend on Windows)
 
 ```bash
-git clone <this-repo>
-cd monitoring-stack
+git clone https://github.com/sanjanapulla06/docker-monitoring-stack.git
+cd docker-monitoring-stack
 docker compose up -d
 ```
 
